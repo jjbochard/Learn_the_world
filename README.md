@@ -12,3 +12,9 @@ Launch the scraper :
 - Do the last step for capital.json, currency.json and language.json
 - Then launch the python files : 
 python3 learn_the_world.py
+
+## Possible improvement
+
+- Search by alphabetical ordre
+- Search by currency and language (for example wich country use Euro? Wich country speak english)
+- test section
