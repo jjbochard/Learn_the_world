@@ -10,5 +10,5 @@ Launch the scraper :
 - Then launch the scraper :
     scrapy runspider country_scraper.py -o country.json
 - Do the last step for capital.json, currency.json and language.json
-- The launch the python files : 
+- Then launch the python files : 
 python3 learn_the_world.py
