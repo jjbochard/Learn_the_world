@@ -16,5 +16,5 @@ python3 learn_the_world.py
 ## Possible improvement
 
 - Search by alphabetical ordre
-- Search by currency and language (for example wich country use Euro? Wich country speak english)
+- Search by currency and language (for example wich country uses Euro? Wich country speaks english)
 - test section
